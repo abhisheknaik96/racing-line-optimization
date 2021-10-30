@@ -8,5 +8,15 @@ In its current form, it takes a representation of a 2d track as input and uses s
 
 ---
 
+## Installation
+
+- `git clone` this project
+- `cd` into it
+- `git clone https://github.com/juangallostra/procedural-tracks.git`
+- rename the above repo to `procedural_tracks`
+- get started with `racing_line.ipynb`
+
+---
+
 - This project uses the cool [procedural-tracks](https://github.com/juangallostra/procedural-tracks/) library for generating interesting tracks and visualizing them.
 - _Why_ this project? [Because I love Formula 1](https://abhisheknaik96.github.io/#interests-and-hobbies) and some nights I dream of working with an F1 team!
